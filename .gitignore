@@ -1,0 +1,8 @@
+node_modules
+playground
+.tern-project
+.sublime-project
+.project
+.settings
+
+
