@@ -1,6 +1,5 @@
-/*Restart on Udemy video 74, testing POST routes and 
- * adding testing express middleware/ dependencies;
- * currently, GET doesn't work with :id */
+/*video 75, 
+ * GET doesn't work with :id */
 
 var express = require('express');
 var bodyParser = require('body-parser');
